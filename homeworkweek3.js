@@ -1,5 +1,3 @@
-// let pizzaToppings = ["tomatoes", "onion", "cheese", "black olives"];
-
 // function greetCustomer(somePizzaToppings) {
 //   console.log(`Welcome to our pizza restaurant. Here are our toppings: `);
 //   for (let i = 0; i < somePizzaToppings.length; i++) {
