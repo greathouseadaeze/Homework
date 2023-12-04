@@ -1,0 +1,54 @@
+
+.firstSection{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 10px solid gray;
+  background-color: #D48C70;
+  text-align: center;
+}
+
+
+img{
+  width: 300px;
+  height: 300px;
+  justify-content: center;
+}
+
+.secondSection{
+  background-color: #F4B9B8;
+  margin-left:80px;
+  margin-right:80px;
+  margin-bottom: 10px;
+  text-align: center;
+  border: 10px solid gray;
+  padding: 5px;
+}
+
+.thirdSection{
+  background-color: #EBBBB0;
+  margin-left: 110px;
+  margin-right: 110px;
+  margin-bottom: 10px;
+  text-align: center;
+  border: 10px solid gray;
+  padding: 5px;
+}
+
+.fourthSection{
+  background-color: #E98980;
+  margin-left: 140px;
+  margin-right: 140px;
+  text-align: center;
+  border: 10px solid gray;
+  padding: 5px;
+}
+
+#aboutPage{
+  text-decoration: underline;
+}
+
+ol li{
+  text-decoration: underline;
+}
