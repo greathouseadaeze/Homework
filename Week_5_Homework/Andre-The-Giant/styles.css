@@ -1,0 +1,55 @@
+html {
+  background-color: antiquewhite;
+}
+
+body {
+  text-align: center;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+/* img {
+  height: 100%;
+} */
+
+div {
+  border: 2px solid burlywood;
+  margin: 10px;
+}
+
+#introPic {
+  float: left;
+  height: 60px;
+  width: 100px;
+}
+
+#bio {
+  float: right;
+  margin-top: 60px;
+}
+
+#bio > li {
+  padding: 2px;
+}
+
+
+#pro {
+  width: auto;
+}
+
+#earlyCareer > img{
+  width: 50%;
+  height: 50%;
+}
+
+#proCareer > img{
+  width: 50%;
+  height: 50%;
+}
+
+@media(max-width: 375px){
+}
+
